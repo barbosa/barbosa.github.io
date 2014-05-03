@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://barbosa.github.io/sitemap.xml 
